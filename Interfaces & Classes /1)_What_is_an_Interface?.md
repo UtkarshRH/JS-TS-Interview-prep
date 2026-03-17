@@ -59,6 +59,25 @@ const user: User = {
 
 ---
 
+## When to Use Interface (Important)
+
+Use **interface** when:
+
+- you are defining the **structure of objects**
+- you are working with **APIs (request/response types)**
+- you want to define **props in React components**
+- you need **consistent data structure across multiple places**
+- you want to use **class implementation (`implements`)**
+
+---
+
+## Interface vs Type (Quick Hint)
+
+- Use **interface** → for objects & extensibility  
+- Use **type** → for unions, primitives, complex types  
+
+---
+
 ## Key Points
 
 - Interface defines **object structure**
