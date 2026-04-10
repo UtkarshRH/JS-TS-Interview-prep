@@ -6,7 +6,7 @@
 - var, let, const
 - Shadowing
 
----
+-----
 
 ## 1️⃣ Hoisting
 
